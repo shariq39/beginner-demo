@@ -1,4 +1,4 @@
 # beginner-demo
 This is my first Git repository.
 <br>
-Author - Mohd Shariq
+Author - Mohd Shariq (MS)
